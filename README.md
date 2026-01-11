@@ -5,7 +5,7 @@
 [![React](https://img.shields.io/badge/React-18.x-61DAFB?logo=react)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-5.x-646CFF?logo=vite)](https://vitejs.dev/)
 
-A modern student engagement platform that helps university students connect with peers, discover events, share academic resources, and join clubs. Built with React, TypeScript, and Supabase.
+A modern student engagement platform that helps university students connect with peers, discover events, share academic resources, and join clubs. Built with React, TypeScript, and Supabase. 🎓
 
 ## 🌟 Features
 
